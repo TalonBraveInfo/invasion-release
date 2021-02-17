@@ -19,6 +19,10 @@
 *.dt
 *.tmp
 *.pdb
+*.old
 
 # Maybe/Maybe not?
 /maps/graphs/
+
+/materials/**/*.png
+/materials/**/*.xcf
