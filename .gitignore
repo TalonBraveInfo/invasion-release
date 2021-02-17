@@ -24,5 +24,7 @@
 # Maybe/Maybe not?
 /maps/graphs/
 
+/models/**/*.jpg
+
 /materials/**/*.png
 /materials/**/*.xcf
