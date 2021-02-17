@@ -1,0 +1,24 @@
+/downloadlists/
+/screenshots/
+/custom/
+/user_custom/
+
+# Config
+/cfg/config.cfg
+/cfg/vmt.txt
+/cfg/server_blacklist.txt
+
+# Other generated crap
+/stats.txt
+/albedo.tga
+/normal.tga
+/class_stats.txt
+/class_stats_detailed.txt
+*.cache
+*.dem
+*.dt
+*.tmp
+*.pdb
+
+# Maybe/Maybe not?
+/maps/graphs/
