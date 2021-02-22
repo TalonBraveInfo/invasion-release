@@ -1,6 +1,12 @@
 # Invasion
 
-**THIS PROJECT AND README ARE A WORK IN PROGRESS**
+**Please note that this repository is here to allow for external contributors
+to have easy access to the project and is not intended to provide audited content 
+that's necessarily ready to play.**
+
+**Please also bear in mind that this project is still in a very early stage of 
+development and the content provided here is not necessarily representative of 
+the finished project.**
 
 Invasion, or otherwise known as _Project Invasion_, is a game that intends to reproduce and complete Valve's vision of Team Fortress 2 as it was to be in 2003, before it restarted development to become the game we know today.
 
@@ -14,6 +20,7 @@ While we aim for authenticity, we do have to take some creative liberties given 
 - Laggies
 	+ https://www.deviantart.com/mcstick11
 - Mechadexic
+- Soto
 
 ### Additional Credits
 - Marco "_eukos_" Hladik (Some additional models)
