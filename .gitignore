@@ -23,8 +23,11 @@
 
 # Maybe/Maybe not?
 /maps/graphs/
+/maps/private/
 
 /models/**/*.jpg
 
 /materials/**/*.png
 /materials/**/*.xcf
+
+scripts/hintdisplaystats.txt
