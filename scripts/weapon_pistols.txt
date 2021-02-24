@@ -1,7 +1,7 @@
 WeaponData
 {
 	printname	"Pistols"
-	viewmodel	"models/weapons/v_pistol.mdl"
+	viewmodel	"models/weapons/v_human_pistols.mdl"
 	playermodel	"models/weapons/w_human_burstrifle.mdl"
 	anim_prefix	"smg2"
 	bucket		0

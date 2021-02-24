@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/v_human_pistols/ReconPistol_BaseColor"
+	"$bumpmap" "models/weapons/v_human_pistols/ReconPistol_Normal"
+}
