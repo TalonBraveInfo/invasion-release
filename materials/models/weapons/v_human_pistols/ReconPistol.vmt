@@ -2,4 +2,17 @@
 {
 	"$basetexture" "models/weapons/v_human_pistols/ReconPistol_BaseColor"
 	"$bumpmap" "models/weapons/v_human_pistols/ReconPistol_Normal"
+
+	$model 1
+
+	// Produces a nicer, more subtle effect compared to specular.
+	$phong					1
+	$phongexponenttexture	"models/weapons/v_human_pistols/ReconPistol_Specular"
+	$phongexponentfactor	2
+	$phongboost				0.25
+	$phongfresnelranges		"[0.2 0.45 1]"
+	$phongwarptexture		"lightwarp/mirv_lightwarp"
+
+	$selfillum 		1
+    $selfillummask 	"models/weapons/v_human_pistols/ReconPistol_Illum"
 }

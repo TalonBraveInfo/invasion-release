@@ -8,7 +8,7 @@
 	$phong					1
 	$phongexponenttexture	"models/weapons/v_human_harpoongun/harpoongun_specular"
 	$phongexponentfactor	2
-	$phongboost				1.0
+	$phongboost				0.25
 	$phongfresnelranges		"[0.2 0.45 1]"
 	$phongwarptexture		"lightwarp/mirv_lightwarp"
 }
