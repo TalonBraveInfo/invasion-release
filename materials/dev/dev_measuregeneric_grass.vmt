@@ -3,5 +3,6 @@ LightmappedGeneric {
 	$color "{73 158 88}"
 	$color2 "{73 158 88}"
 	$surfaceprop grass
+	"%detailtype" "grass01"
 	%keywords "invasion dev"
 }
