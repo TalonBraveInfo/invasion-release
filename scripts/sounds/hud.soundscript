@@ -1,0 +1,26 @@
+Hud.Hint {
+	channel		CHAN_STATIC
+	volume		0.8
+	soundlevel	SNDLVL_NONE
+	pitch		PITCH_NORM
+	wave		ui/hud_hint.wav
+}
+
+// Minimap
+Minimap.ZoomIn
+{
+	channel		CHAN_STATIC
+	pitch		PITCH_NORM
+	soundlevel	SNDLVL_NONE
+	volume		0.8
+	wave		minimap/zoom.wav
+}
+
+Minimap.ZoomOut
+{
+	channel		CHAN_STATIC
+	pitch		75
+	soundlevel	SNDLVL_NONE
+	volume		0.8
+	wave		minimap/zoom.wav
+}

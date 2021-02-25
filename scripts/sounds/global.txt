@@ -86,25 +86,6 @@ Weapon_BurstRifle.Reload {
 	wave		weapons/burstrifle/reload.wav
 }
 
-// Minimap
-Minimap.ZoomIn
-{
-	channel		CHAN_STATIC
-	pitch		PITCH_NORM
-	soundlevel	SNDLVL_NONE
-	volume		0.8
-	wave		minimap/zoom.wav
-}
-
-Minimap.ZoomOut
-{
-	channel		CHAN_STATIC
-	pitch		75
-	soundlevel	SNDLVL_NONE
-	volume		0.8
-	wave		minimap/zoom.wav
-}
-
 // Aliens
 
 AlienCommando.Death
@@ -311,7 +292,7 @@ ObjectPortablePowerGenerator.Shutdown
 ResourceZone.AmbientActiveSound
 {
 	channel    CHAN_STATIC
-	volume     "1"
+	volume     "2"
 	pitch      100
 	soundlevel SNDLVL_IDLE
 	wave       "ambience/resourcezone_ambience_loop00.wav"
