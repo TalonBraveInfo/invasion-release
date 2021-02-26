@@ -1,0 +1,11 @@
+WorldVertexTransition {
+	"$basetexture" "nature/snowfloor002a"
+	"$basetexture2" "nature/dirtfloor001a"
+	"$envmap" "env_cubemap"
+	"$bumpmap" "nature/snowfloor002a_normal"
+	"$envmaptint" "[ 0.01 0.01 0.01 ]"
+	"$surfaceprop" "snow"
+	"%tooltexture" "nature/snowfloor002a"
+	"%keywords" "invasion"
+	"$bumpbasetexture2withbumpmap" "1"
+}
