@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	$basetexture "sprites\barbed_wire"
+	$bumpmap "cable\cablenormalmap"
+	$vertexcolor 1
+	//$translucent 1
+	$alphatest 1
+	$allowalphatocoverage 1
+}
