@@ -1,0 +1,9 @@
+// For sounds shared between all objects
+
+Object.StartBuilding {
+	channel		CHAN_AUTO
+	volume		VOL_NORM
+	pitch		90,110
+	soundlevel	SNDLVL_NORM
+	wave		objects/place_large_object.wav
+}
