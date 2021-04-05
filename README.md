@@ -13,15 +13,15 @@ Invasion, or otherwise known as _Project Invasion_, is a game that intends to re
 While we aim for authenticity, we do have to take some creative liberties given the nature of Team Fortress 2's state at the time, being very much a mess of ideas carried through years of development.
 
 ## Developers
-- Mark "_hogsy_" Sowden
+- Mark "_hogsy_" Sowden (Programming)
 	+ https://www.hogsy.me/
-- G-Gnome505
-- SleepingHollow
-- Soto
+- G-Gnome505 (Modelling and animation)
+- SleepingHollow (Modelling)
+- Soto (Artwork)
 
 ### Additional Credits
-- Mechadexic
-- Laggies
+- Mechadexic (Additional programming)
+- Laggies (Artwork)
 	+ https://www.deviantart.com/mcstick11
 - Marco "_eukos_" Hladik (Some additional models)
 - ScarT (Human/Alien Commando model sources)
