@@ -17,12 +17,12 @@ While we aim for authenticity, we do have to take some creative liberties given 
 	+ https://www.hogsy.me/
 - G-Gnome505
 - SleepingHollow
-- Laggies
-	+ https://www.deviantart.com/mcstick11
-- Mechadexic
 - Soto
 
 ### Additional Credits
+- Mechadexic
+- Laggies
+	+ https://www.deviantart.com/mcstick11
 - Marco "_eukos_" Hladik (Some additional models)
 - ScarT (Human/Alien Commando model sources)
 - Valve (Original concept and code)
