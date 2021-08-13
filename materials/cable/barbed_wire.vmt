@@ -1,0 +1,7 @@
+"Cable"
+{
+	$basetexture "cable\rope"
+	$bumpmap "cable\cablenormalmap"
+	$vertexcolor 1
+	$translucent 1
+}
