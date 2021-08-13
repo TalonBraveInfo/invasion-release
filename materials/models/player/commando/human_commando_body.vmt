@@ -6,11 +6,15 @@
 	
 	// Produces a nicer, more subtle effect compared to specular.
 	$phong					1
-	$phongexponent			5
-	$phongboost				15
-	$phongfresnelranges		"[0.1 0.1 5]"
+	$phongexponent			20
+	$phongboost				5
+	$phongfresnelranges		"[2.5 1.15 10]"
+
+	//$rimlight		1
+	//$rimlightexponent	2
+	//$rimlightboost   	0.2
 	
-	$lightwarptexture	"lightwarp/mirv_lightwarp"
+	$lightwarptexture	"lightwarp/robot_lightwarp"
 	
 	//$selfillum 1
     //$selfillummask "models/player/human/defender/classoverlay"
