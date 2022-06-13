@@ -31,3 +31,4 @@
 /materials/**/*.xcf
 
 scripts/hintdisplaystats.txt
+/.vs
