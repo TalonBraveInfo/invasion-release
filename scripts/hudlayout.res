@@ -11,6 +11,17 @@ HudLayout
 		tall	 	35
 	}
 
+	HudVersion
+	{
+		fieldName 			"HudVersion"
+		enabled				1
+		xpos				c-50
+		ypos				-10
+		wide				120
+		tall				27
+		PaintBackgroundType	2
+	}
+
 	HudDeathNotice {
 		"fieldName"			"HudDeathNotice"
 		"visible"			"1"
@@ -419,6 +430,11 @@ HudLayout
 		fieldName	HudOrderList
 		visible		1
 		enabled		1
+		"xpos"	"c-190"
+		"ypos"	"350"
+		"wide"	"380"
+		"tall"  "40"
+		"PaintBackgroundType"	"2"
 	}
 	
 	HudTimer
@@ -426,7 +442,7 @@ HudLayout
 		"fieldName" "HudTimer"
 		"xpos"		"c50"
 		"ypos"		"432"
-		"wide"		"170"
+		"wide"		"64"
 		"tall"  	"36"
 		"visible" 	"0"
 		"enabled" 	"1"
@@ -437,9 +453,6 @@ HudLayout
 		"text_ypos" "20"
 		"digit_xpos" "44"
 		"digit_ypos" "2"
-		//"NumberFont" "CloseCaption_Bold"
-		//"digit_xpos" "3"
-		//"digit_ypos" "1"
 	}
 	
 	HudMinimap
