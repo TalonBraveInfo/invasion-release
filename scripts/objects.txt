@@ -106,7 +106,7 @@ objects
 		SolidToPlayerMovement  0
 		Icon                   "selection_obj_resourcepump"
 		BuildTime              10
-		MaxObjects             1
+		MaxObjects             0
 		Cost                   5
 		CostMultiplier         1
 		UpgradeCost            0
