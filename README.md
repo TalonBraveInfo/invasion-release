@@ -26,9 +26,3 @@ While we aim for authenticity, we do have to take some creative liberties given 
 - Marco "_eukos_" Hladik (Some additional models)
 - ScarT (Human/Alien Commando model sources)
 - Valve (Original concept and code)
-
-## Contributing
-
-If you're interested in contributing to the project then we recommend jumping onto our [Discord](https://discord.gg/EdmwgVk), so we can better coordinate everything.
-
-We're currently looking for programmers, level designers, modellers, animators and artists, so if you're any one of those then your help would be greatly appreciated!
